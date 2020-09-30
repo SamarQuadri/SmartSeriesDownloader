@@ -1,0 +1,25 @@
+.searchSection{
+    width: 100%;
+    margin-top: 50px;
+    height: auto;
+}
+
+.form-control{
+    margin-bottom: 15px;
+}
+
+.submitBtn{
+    width: 100%;
+}
+.movieDwnLink{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.movieSection{
+    width: 100%;
+}
+/* 
+#movieTem{
+    visibility: hidden;
+} */
